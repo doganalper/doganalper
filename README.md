@@ -1,4 +1,4 @@
-Hi 👋 My name is Alper Doğan
+Hi 👋 I'm Alper
 ============================
 
 Curious Frontend Developer
