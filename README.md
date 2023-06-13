@@ -6,7 +6,6 @@ Curious Frontend Developer
 
 * 🌍  I'm based in Istanbul, Turkey currently
 * ✉️  You can contact me at [alperuni217@gmail.com](mailto:alperuni217@gmail.com)
-* 🚀  I'm currently working on [StoreSpy](http://storespy.net/)
 * 🧠  I'm learning Go and Typescript 🥽
 * ⚡  I might bore you with my questions!
 
